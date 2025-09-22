@@ -1,6 +1,6 @@
 description = "Generates a new Gemini CLI command."
 prompt = """
-@{references/gemini-cli/docs/cli/commands.md}
+@{../references/gemini-cli/docs/cli/commands.md}
 
 You are an expert in creating Gemini CLI custom commands.
 A user wants to create a new command.
